@@ -1,4 +1,4 @@
-expermental
+experimental
 ===========
 
 Trial Projects
